@@ -1,5 +1,5 @@
 # a7in-disk-space-visualizer
-Disk space visualizer.
+Disk space visualizer for Windows.
 
 An analogue of the old utility "Sequoia", which is unable to correctly calculate the amount of space due to symlinks.
 
